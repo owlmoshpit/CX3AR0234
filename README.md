@@ -31,6 +31,17 @@ See the issues for a detailed description of what where we need help.
 4. After the firmware is flashed, the camera can be used with the default Camera App on Windows.
 
 
+### Read UART Debug Messages
+1. Connect a USB to TTL serial cable ([this one](https://www.adafruit.com/product/954) works) adapter to the UART pins on the camera board.
+2. Open a serial terminal (like hterm) and select the com port to read and press connect.
+3. Use settings 115200 baud, 8 data bits, 1 stop bit, no parity, no flow control. Newline mode should be set to "CR".
+4. When camera is streaming, you should see debug messages in the hterm.
+
+![uart connection](./images/uart_connection.png)
+
+## Read registers using JTAG
+* TODO: document this.
+
 ## AR0234CS Sensor
 [Product Link](https://www.onsemi.com/products/sensors/image-sensors/ar0234cs)
 
