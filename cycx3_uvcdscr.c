@@ -1,5 +1,5 @@
 /*
-## Cypress USB 3.0 Platform descriptor file 
+## Cypress USB 3.0 Platform descriptor file  111
 ## ===========================
 ##
 ##  Copyright Cypress Semiconductor Corporation, 2013-2014,

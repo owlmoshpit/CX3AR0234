@@ -1040,7 +1040,7 @@ CyCx3AppInit (
     CyU3PReturnStatus_t status = CY_U3P_SUCCESS;
 
 
-	/* ..\cycx3_uvc.c:1673:21: error: expected declaration specifiers or '...' before string constant
+	/* ..\cycx3_uvc.c:1673:21: error: expected declaration specifiers or '...' before string constant 
 	 *
 	 */
 	CyU3PDebugPrint(4, "Custom message from wr \n");
