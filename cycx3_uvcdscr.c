@@ -672,6 +672,8 @@ const uint8_t CyCx3USBHSConfigDscr[] =
 #else
 
     /* Class specific Uncompressed VS format descriptor - YUY2 */
+    // ALL THESE COMMENTS ARE WRONG
+    
        0x1B,                               /* Descriptor size */
        CX3_CS_INTRFC_DESCR,                /* Class-specific VS interface Type */
        0x04,                               /* Subtype : VS_FORMAT */
