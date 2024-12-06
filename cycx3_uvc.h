@@ -31,7 +31,8 @@
 
 #include "cyu3externcstart.h"
 
-//#define Y8
+// enabled by wr
+#define Y8
 
 #define ENABLE_USB3_CONNECTION
 

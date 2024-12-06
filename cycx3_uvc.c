@@ -24,8 +24,6 @@
  * XXXX image sensor.
  */
 
-#include "SEGGER_RTT.h"
-
 
 #include "cyfxversion.h"
 #include "cyu3system.h"
