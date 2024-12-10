@@ -1,0 +1,2239 @@
+3 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4440 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4500 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4560 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4620 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4680 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4740 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4800 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4860 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4920 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 4980 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 5040 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Frm_Cnt = 5100 TimeDiff = 503 ms FPS = 119<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>Prod = 13 Cons = 13 Prtl_Sz = 12288 Frm_Sz = 307200 B<\n>
+<\r>bRType = 0x2, bRequest = 0x1, wValue = 0x0, wIndex = 0x83, wLength= 0x0<\n>
+<\r>AplnStop:SMState = 0x5<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 3<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x83, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x82, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x200, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR commit control Format Index = 1, Frame Index = 1<\n>
+<\r>Setting Gpif bus width to 24<\r><\n>
+Writing Configuration Settings:<\r><\n>
+Register = 0x302A: Value = 0x8<\r><\n>
+Register = 0x302C: Value = 0x1<\r><\n>
+Register = 0x302E: Value = 0x9<\r><\n>
+Register = 0x3030: Value = 0xB6<\r><\n>
+Register = 0x3036: Value = 0x8<\r><\n>
+Register = 0x3038: Value = 0x2<\r><\n>
+Register = 0x30B0: Value = 0x28<\r><\n>
+Register = 0x31B0: Value = 0x66<\r><\n>
+Register = 0x31B2: Value = 0x4D<\r><\n>
+Register = 0x31B4: Value = 0x4207<\r><\n>
+Register = 0x31B6: Value = 0x31D2<\r><\n>
+Register = 0x31B8: Value = 0x704B<\r><\n>
+Register = 0x31BA: Value = 0x209<\r><\n>
+Register = 0x31BC: Value = 0xB07<\r><\n>
+Register = 0x3354: Value = 0x2A<\r><\n>
+Register = 0x301A: Value = 0x2058<\r><\n>
+Register = 0x31AE: Value = 0x204<\r><\n>
+Register = 0x3002: Value = 0x44<\r><\n>
+Register = 0x3004: Value = 0x8<\r><\n>
+Register = 0x3006: Value = 0x47B<\r><\n>
+Register = 0x3008: Value = 0x787<\r><\n>
+Register = 0x300A: Value = 0x456<\r><\n>
+Register = 0x300C: Value = 0x264<\r><\n>
+Register = 0x3012: Value = 0x14E<\r><\n>
+Register = 0x31AC: Value = 0x808<\r><\n>
+Register = 0x306E: Value = 0x9010<\r><\n>
+Register = 0x30A2: Value = 0x1<\r><\n>
+Register = 0x30A6: Value = 0x1<\r><\n>
+Register = 0x3082: Value = 0x3<\r><\n>
+Register = 0x3040: Value = 0x0<\r><\n>
+Register = 0x31D0: Value = 0x0<\r><\n>
+Register = 0x301A: Value = 0x205C<\n>
+<\r>AplnStrt:SMState = 0x1<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 0  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>Mipi Errors: 0 3 0 1 0 0 0 0 0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>bRType = 0x2, bRequest = 0x1, wValue = 0x0, wIndex = 0x83, wLength= 0x0<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x83, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x82, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x200, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR commit control Format Index = 1, Frame Index = 1<\r><\n>
+Writing Configuration Settings:<\r><\n>
+Register = 0x302A: Value = 0x8<\r><\n>
+Register = 0x302C: Value = 0x1<\r><\n>
+Register = 0x302E: Value = 0x9<\r><\n>
+Register = 0x3030: Value = 0xB6<\r><\n>
+Register = 0x3036: Value = 0x8<\r><\n>
+Register = 0x3038: Value = 0x2<\r><\n>
+Register = 0x30B0: Value = 0x28<\r><\n>
+Register = 0x31B0: Value = 0x66<\r><\n>
+Register = 0x31B2: Value = 0x4D<\r><\n>
+Register = 0x31B4: Value = 0x4207<\r><\n>
+Register = 0x31B6: Value = 0x31D2<\r><\n>
+Register = 0x31B8: Value = 0x704B<\r><\n>
+Register = 0x31BA: Value = 0x209<\r><\n>
+Register = 0x31BC: Value = 0xB07<\r><\n>
+Register = 0x3354: Value = 0x2A<\r><\n>
+Register = 0x301A: Value = 0x2058<\r><\n>
+Register = 0x31AE: Value = 0x204<\r><\n>
+Register = 0x3002: Value = 0x44<\r><\n>
+Register = 0x3004: Value = 0x8<\r><\n>
+Register = 0x3006: Value = 0x47B<\r><\n>
+Register = 0x3008: Value = 0x787<\r><\n>
+Register = 0x300A: Value = 0x456<\r><\n>
+Register = 0x300C: Value = 0x264<\r><\n>
+Register = 0x3012: Value = 0x14E<\r><\n>
+Register = 0x31AC: Value = 0x808<\r><\n>
+Register = 0x306E: Value = 0x9010<\r><\n>
+Register = 0x30A2: Value = 0x1<\r><\n>
+Register = 0x30A6: Value = 0x1<\r><\n>
+Register = 0x3082: Value = 0x3<\r><\n>
+Register = 0x3040: Value = 0x0<\r><\n>
+Register = 0x31D0: Value = 0x0<\r><\n>
+Register = 0x301A: Value = 0x205C<\n>
+<\r>USB Setup CB:Call AppSTOP1<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 0  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>Mipi Errors: 2 0 0 0 0 0 0 0 0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>bRType = 0x2, bRequest = 0x1, wValue = 0x0, wIndex = 0x83, wLength= 0x0<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR probe control Format Index = 1, Frame Index = 3<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 3<\n>
+<\r>bRType = 0xA1, bRequest = 0x83, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 3<\n>
+<\r>bRType = 0xA1, bRequest = 0x82, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 3<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x200, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR commit control Format Index = 1, Frame Index = 3<\n>
+<\r>Setting Gpif bus width to 16<\r><\n>
+Writing Configuration Settings:<\r><\n>
+Register = 0x302A: Value = 0x8<\r><\n>
+Register = 0x302C: Value = 0x1<\r><\n>
+Register = 0x302E: Value = 0x2<\r><\n>
+Register = 0x3030: Value = 0x28<\r><\n>
+Register = 0x3036: Value = 0x8<\r><\n>
+Register = 0x3038: Value = 0x2<\r><\n>
+Register = 0x30B0: Value = 0x28<\r><\n>
+Register = 0x31B0: Value = 0x66<\r><\n>
+Register = 0x31B2: Value = 0x4D<\r><\n>
+Register = 0x31B4: Value = 0x4207<\r><\n>
+Register = 0x31B6: Value = 0x31D2<\r><\n>
+Register = 0x31B8: Value = 0x704B<\r><\n>
+Register = 0x31BA: Value = 0x209<\r><\n>
+Register = 0x31BC: Value = 0xB07<\r><\n>
+Register = 0x3354: Value = 0x2A<\r><\n>
+Register = 0x301A: Value = 0x2058<\r><\n>
+Register = 0x31AE: Value = 0x204<\r><\n>
+Register = 0x3002: Value = 0x170<\r><\n>
+Register = 0x3004: Value = 0x288<\r><\n>
+Register = 0x3006: Value = 0x34F<\r><\n>
+Register = 0x3008: Value = 0x507<\r><\n>
+Register = 0x300A: Value = 0x1F0<\r><\n>
+Register = 0x300C: Value = 0x462<\r><\n>
+Register = 0x3012: Value = 0xB4<\r><\n>
+Register = 0x31AC: Value = 0x808<\r><\n>
+Register = 0x306E: Value = 0x9010<\r><\n>
+Register = 0x30A2: Value = 0x1<\r><\n>
+Register = 0x30A6: Value = 0x1<\r><\n>
+Register = 0x3082: Value = 0x3<\r><\n>
+Register = 0x3040: Value = 0x0<\r><\n>
+Register = 0x31D0: Value = 0x0<\r><\n>
+Register = 0x301A: Value = 0x205C<\n>
+<\r>USB Setup CB:Call AppSTOP1<\n>
+<\r>AplnStop:SMState = 0x0<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 24574 Frm_Sz = 24574 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>Mipi Errors: 2 0 0 0 0 0 0 0 0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>Mipi Errors: 1 1 0 0 0 0 0 0 0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>bRType = 0x2, bRequest = 0x1, wValue = 0x0, wIndex = 0x83, wLength= 0x0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 3<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR probe control Format Index = 1, Frame Index = 2<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 2<\n>
+<\r>bRType = 0xA1, bRequest = 0x83, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 2<\n>
+<\r>bRType = 0xA1, bRequest = 0x82, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 2<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x200, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR commit control Format Index = 1, Frame Index = 2<\r><\n>
+Writing Configuration Settings:<\r><\n>
+Register = 0x302A: Value = 0x8<\r><\n>
+Register = 0x302C: Value = 0x1<\r><\n>
+Register = 0x302E: Value = 0x2<\r><\n>
+Register = 0x3030: Value = 0x28<\r><\n>
+Register = 0x3036: Value = 0x8<\r><\n>
+Register = 0x3038: Value = 0x2<\r><\n>
+Register = 0x30B0: Value = 0x28<\r><\n>
+Register = 0x31B0: Value = 0x66<\r><\n>
+Register = 0x31B2: Value = 0x4D<\r><\n>
+Register = 0x31B4: Value = 0x4207<\r><\n>
+Register = 0x31B6: Value = 0x31D2<\r><\n>
+Register = 0x31B8: Value = 0x704B<\r><\n>
+Register = 0x31BA: Value = 0x209<\r><\n>
+Register = 0x31BC: Value = 0xB07<\r><\n>
+Register = 0x3354: Value = 0x2A<\r><\n>
+Register = 0x301A: Value = 0x2058<\r><\n>
+Register = 0x31AE: Value = 0x204<\r><\n>
+Register = 0x3002: Value = 0xF8<\r><\n>
+Register = 0x3004: Value = 0x148<\r><\n>
+Register = 0x3006: Value = 0x3C7<\r><\n>
+Register = 0x3008: Value = 0x647<\r><\n>
+Register = 0x300A: Value = 0x2E0<\r><\n>
+Register = 0x300C: Value = 0x2F7<\r><\n>
+Register = 0x3012: Value = 0x10A<\r><\n>
+Register = 0x31AC: Value = 0x808<\r><\n>
+Register = 0x306E: Value = 0x9010<\r><\n>
+Register = 0x30A2: Value = 0x1<\r><\n>
+Register = 0x30A6: Value = 0x1<\r><\n>
+Register = 0x3082: Value = 0x3<\r><\n>
+Register = 0x3040: Value = 0x0<\r><\n>
+Register = 0x31D0: Value = 0x0<\r><\n>
+Register = 0x301A: Value = 0x205C<\n>
+<\r>AplnStrt:SMState = 0x1<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 0  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>Mipi Errors: 0 3 0 0 0 0 0 0 0<\n>
+<\r>AplnStop:SMState = 0xE<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>bRType = 0x2, bRequest = 0x1, wValue = 0x0, wIndex = 0x83, wLength= 0x0<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 2<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x81, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x83, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0xA1, bRequest = 0x82, wValue = 0x100, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:GET_CUR probe control Format Index = 1, Frame Index = 1<\n>
+<\r>bRType = 0x21, bRequest = 0x1, wValue = 0x200, wIndex = 0x1, wLength= 0x22<\n>
+<\r>USB Setup CB:SET_CUR commit control Format Index = 1, Frame Index = 1<\n>
+<\r>Setting Gpif bus width to 24<\r><\n>
+Writing Configuration Settings:<\r><\n>
+Register = 0x302A: Value = 0x8<\r><\n>
+Register = 0x302C: Value = 0x1<\r><\n>
+Register = 0x302E: Value = 0x9<\r><\n>
+Register = 0x3030: Value = 0xB6<\r><\n>
+Register = 0x3036: Value = 0x8<\r><\n>
+Register = 0x3038: Value = 0x2<\r><\n>
+Register = 0x30B0: Value = 0x28<\r><\n>
+Register = 0x31B0: Value = 0x66<\r><\n>
+Register = 0x31B2: Value = 0x4D<\r><\n>
+Register = 0x31B4: Value = 0x4207<\r><\n>
+Register = 0x31B6: Value = 0x31D2<\r><\n>
+Register = 0x31B8: Value = 0x704B<\r><\n>
+Register = 0x31BA: Value = 0x209<\r><\n>
+Register = 0x31BC: Value = 0xB07<\r><\n>
+Register = 0x3354: Value = 0x2A<\r><\n>
+Register = 0x301A: Value = 0x2058<\r><\n>
+Register = 0x31AE: Value = 0x204<\r><\n>
+Register = 0x3002: Value = 0x44<\r><\n>
+Register = 0x3004: Value = 0x8<\r><\n>
+Register = 0x3006: Value = 0x47B<\r><\n>
+Register = 0x3008: Value = 0x787<\r><\n>
+Register = 0x300A: Value = 0x456<\r><\n>
+Register = 0x300C: Value = 0x264<\r><\n>
+Register = 0x3012: Value = 0x14E<\r><\n>
+Register = 0x31AC: Value = 0x808<\r><\n>
+Register = 0x306E: Value = 0x9010<\r><\n>
+Register = 0x30A2: Value = 0x1<\r><\n>
+Register = 0x30A6: Value = 0x1<\r><\n>
+Register = 0x3082: Value = 0x3<\r><\n>
+Register = 0x3040: Value = 0x0<\r><\n>
+Register = 0x31D0: Value = 0x0<\r><\n>
+Register = 0x301A: Value = 0x205C<\n>
+<\r>USB Setup CB:Call AppSTOP1<\n>
+<\r>AplnStop:SMState = 0x0<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>Mipi Errors: 1 2 0 0 0 0 0 0 0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>Mipi Errors: 6 4 0 0 0 0 0 0 0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\r><\n>
+DMA RESET<\r><\n>
+<\n>
+<\r>CyFx3UvcHandleDmaReset:Prod = 0 Cons = 1  Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>AplnStrt:SMState = 0x1<\n>
+<\r>Prod = 1 Cons = 0 Prtl_Sz = 0 Frm_Sz = 0 B<\n>
+<\r>bRType = 0x2, bRequest = 0x1, wValue = 0x0, wIndex = 0x83, wLength= 0x0<\n>
+<\r>AplnStop:SMState = 0xD<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x100, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\n>
+<\r>bRType = 0x1, bRequest = 0x3, wValue = 0x0, wIndex = 0x0, wLength= 0x0<\n>
+<\r>StpCB:In SET_FTR 0::1<\n>
+<\r>glIsConfigured... running CyU3PUsbAckSetup<\0>

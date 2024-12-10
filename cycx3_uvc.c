@@ -824,10 +824,12 @@ CyCx3AppUSBSetupCB (
 #endif
         if (glIsConfigured)
         {
+            CyU3PDebugPrint (4, "\n\rglIsConfigured... running CyU3PUsbAckSetup");
             CyU3PUsbAckSetup ();
         }
         else
         {
+            CyU3PDebugPrint (4, "\n\rNOT glIsConfigured... running CyU3PUsbStall");
             CyU3PUsbStall (0, CyTrue, CyFalse);
         }
 
