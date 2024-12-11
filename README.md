@@ -38,7 +38,6 @@ See the issues for a detailed description of what where we need help. Fork the r
 4. In the file dialog, select the .img file that was generated in the build step. Usually it is located in the "Debug" folder of the project.
 4. After the firmware is flashed, the camera can be used with the default Camera App on Windows.
 
-
 ### Read UART Debug Messages
 1. Connect a USB to TTL serial cable ([this one](https://www.adafruit.com/product/954) works) adapter to the UART pins on the camera board.
 2. Open a serial terminal (like hterm) and select the com port to read and press connect.
@@ -47,15 +46,44 @@ See the issues for a detailed description of what where we need help. Fork the r
 
 ![uart connection](./images/uart_connection.png)
 
-## Read registers using JTAG
-* TODO: document this.
+### Read registers using JTAG
+* Open Jlink Commander
+* Connect to the Jlink device by typing `connect`
+* Select the device by typing `ARM9`
+* Follow defaults until you get to the prompt asking for refresh rate and then type 1000
 
-## AR0234CS Sensor
+
+
+### Run Python Scripts to Test Image Capture and FPS
+1. Install the required python packages 
+```bash
+cd scripts
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+```
+2. Run the script to capture images and calculate FPS
+```bash
+python view_images.py
+```
+3. Run the script to capture images and calculate FPS
+```bash
+python fps_test.py
+```
+
+## Hardware
+
+### AR0234CS Sensor
 [Product Link](https://www.onsemi.com/products/sensors/image-sensors/ar0234cs)
 
 This sensor is monochrome and has a resolution of 1920x1200. It can output images at 100fps.
 
 
-## CX3 (CYUSB3065-BZXI) chip by Infineon
+### CX3 (CYUSB3065-BZXI) chip by Infineon
 The CX3 Infineon chip is a USB 3.0 peripheral controller that enables developers to add USB 3.0 connectivity to any image sensor compliant with the Mobile Industry Processor Interface (MIPI) Camera Serial Interface Type 2 (CSI-2) standard.
 
+
+
+## Related Articles
+
+* [Article how to get images off of CX3 with same sensor.](https://community.infineon.com/t5/Knowledge-Base-Articles/EZ-USB-CX3-Interfacing-with-the-onsemi-AR0234CS-sensor-KBA236855/ta-p/402602#.)
