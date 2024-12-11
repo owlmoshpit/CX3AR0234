@@ -31,8 +31,8 @@
 
 #include "cyu3externcstart.h"
 
-// enabled by wr
-//#define Y8
+// WR: Uncomment the following line to output raw grayscale images. Comment the line to get YUV images.
+#define Y8
 
 #define ENABLE_USB3_CONNECTION
 
